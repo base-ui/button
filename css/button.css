@@ -18,6 +18,7 @@
   cursor: default;
 }
 button.ui.button {
+  font-family: inherit;
   margin: 0;
   border: 0;
   outline: none;
